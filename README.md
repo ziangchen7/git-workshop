@@ -49,3 +49,26 @@ git push # you only need -u for the first push after making branch.
 **step four**: create new pull request
 
 ![alt text](./photos/step4.png)
+
+Upon approval, you can then merge your changes into the master branch (or whatever branch you want to merge your changes into)
+
+**step five**: upon your changes being approved, you can press "rebase and merge"
+![alt text](./photos/step5.png)
+
+You can then press "confirm rebase and merge"
+
+![alt text](./photos/step6.png)
+
+**step six**: Finally, press Delete branch to delete the branch
+
+![alt text](./photos/step7.png)
+
+
+## final notes
+
+- When working in the micromouse repositories, you'll make a branch based off master (tbd) for **each** task.
+    - For example, if you're assigned to fix pid, and sensor code, you'll make two branches, one for your pid fix, and sensor code.
+- branch naming conventions are yet to be determined
+
+
+Look forward to your contributions!
